@@ -39,11 +39,11 @@ the detailed OOD design for a particular function. You may also need to design t
 
 Here are some articles about system design related topics.  
 
-* [The Anatomy Of A System Design Interview](https://blog.pramp.com/system-design-interview-process-e91aae2dbe83)
-* [How to Succeed in a System Design Interview](https://blog.pramp.com/how-to-succeed-in-a-system-design-interview-27b35de0df26)
-* [How to Rock a Systems Design Interview](http://www.palantir.com/2011/10/how-to-rock-a-systems-design-interview/)
-* [System Interview](http://www.hiredintech.com/app#system-design)
-* [Scalability for Dummies](http://www.lecloud.net/tagged/scalability)
+- [X] [The Anatomy Of A System Design Interview](https://blog.pramp.com/system-design-interview-process-e91aae2dbe83)
+- [X] [How to Succeed in a System Design Interview](https://blog.pramp.com/how-to-succeed-in-a-system-design-interview-27b35de0df26)
+- [X] [How to Rock a Systems Design Interview](https://archive.is/LP4Yx)
+- [ ] [System Interview](https://www.hiredintech.com/system-design/introduction/)
+- [X] [Scalability for Dummies](https://archive.is/3R3eG)
 * [Scalable Web Architecture and Distributed Systems](http://www.aosabook.org/en/distsys.html)
 * [Numbers Everyone Should Know](http://everythingisdata.wordpress.com/2009/10/17/numbers-everyone-should-know/)
 * [Fallacies of distributed systems](https://pages.cs.wisc.edu/~zuyu/files/fallacies.pdf)
