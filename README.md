@@ -7,12 +7,12 @@ System design is a very broad topic. Even a software engineer with many years of
 This repository only teaches you how to handle the system design interview with a systematic approach in a short time. You can dive into each topic if you have time. Of course, welcome to add your thoughts!
 
 ## <a name='toc'>Table of Contents</a>
-- [ ] [System Design Interview Tips](#tips)
+- [X] [System Design Interview Tips](#tips)
 - [ ] [Basic Knowledge about System Design](#intro)
-- [ ] [Company Engineering Blogs](#blog)
+- [X] [Company Engineering Blogs](#blog)
 - [ ] [Products and Systems](#system)
 - [ ] [Hot Questions and Reference](#qs)
-- [ ] [Good Books](#bk)
+- [X] [Good Books](#bk)
 - [ ] [Object Oriented Design](#ood)
 
 ### [[⬆]](#toc) <a name='tips'>System Design Interview Tips:</a>
