@@ -2,37 +2,7 @@
 
 System design is a very broad topic. Even a software engineer with many years of working experience at a top IT company may not be an expert on system design. If you want to become an expert, you need to read many books, articles, and solve real large scale system design problems.
 
-This repository only teaches you how to handle the system design interview with a systematic approach in a short time. You can dive into each topic if you have time. Of course, welcome to add your thoughts!
-
-## <a name='toc'>Table of Contents</a>
-- [X] [System Design Interview Tips](#tips)
-- [ ] [Basic Knowledge about System Design](#intro)
-- [X] [Company Engineering Blogs](#blog)
-- [ ] [Products and Systems](#system)
-- [ ] [Hot Questions and Reference](#qs)
-- [X] [Good Books](#bk)
-- [ ] [Object Oriented Design](#ood)
-
-### [[⬆]](#toc) <a name='tips'>System Design Interview Tips:</a>
-
-**Clarify the constraints and identify the user cases**
-
-Spend a few minutes questioning the interviewer and agreeing on the scope of the system.
-Remember to make sure you know all the requirements the interviewer didn't tell you about in the beginning.
-
-User cases indicate the main functions of the system, and constraints list the scale of the system such as requests 
-per second, requests types, data written per second, data read per second.
-
-**High-level architecture design**
-
-Sketch the important components and the connections between them, but don't go into some details. 
-Usually, a scalable system includes webserver (load balancer), service (service partition), database (primary/secondary database cluster plug cache).
- 
-**Component design**
-
-For each component, you need to write the specific APIs for each component. You may need to finish
-the detailed OOD design for a particular function. You may also need to design the database schema for the database.
-
+Thf
 ### [[⬆]](#toc) <a name='intro'>Basic Knowledge about System Design:</a>
 
 Here are some articles about system design related topics.  
@@ -44,7 +14,7 @@ Here are some articles about system design related topics.
 - [X] [Scalability for Dummies](https://archive.is/3R3eG)
 * [Scalable Web Architecture and Distributed Systems](http://www.aosabook.org/en/distsys.html)
 * [Numbers Everyone Should Know](http://everythingisdata.wordpress.com/2009/10/17/numbers-everyone-should-know/)
-* [Fallacies of distributed systems](https://pages.cs.wisc.edu/~zuyu/files/fallacies.pdf)
+- [X] [Fallacies of distributed systems](https://pages.cs.wisc.edu/~zuyu/files/fallacies.pdf)
 * [Scalable System Design Patterns](http://horicky.blogspot.com/2010/10/scalable-system-design-patterns.html)
 * [Introduction to Architecting Systems for Scale](http://lethain.com/introduction-to-architecting-systems-for-scale/)
 * [Transactions Across Datacenters](http://snarfed.org/transactions_across_datacenters_io.html)
